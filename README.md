@@ -1,6 +1,6 @@
 # docker_hw1
 
-## Создание Docker-образ, используя команду docker build , выполните: docker build -t my-custom-nginx .
+## Создание Docker-образа, используя команду docker build , выполните: docker build -t my-custom-nginx .
 #### (Замените my-custom-nginx на имя, которое вы хотите дать своему образу.)
 
 ## Запустите контейнер из собранного образа: docker run -d -p 8080:80 my-custom-nginx
